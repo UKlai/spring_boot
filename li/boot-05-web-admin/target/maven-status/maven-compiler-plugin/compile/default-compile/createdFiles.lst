@@ -1,0 +1,9 @@
+com\li\admin\bean\Account.class
+com\li\admin\bean\User.class
+com\li\admin\bean\City.class
+com\li\admin\Boot05WebAdminApplication.class
+com\li\admin\controller\TableController.class
+com\li\admin\config\AdminWebConfig.class
+com\li\admin\controller\IndexController.class
+com\li\admin\controller\FormTestController.class
+com\li\admin\interceptor\LoginInterceptor.class

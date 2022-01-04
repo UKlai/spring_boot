@@ -1,0 +1,31 @@
+person:
+  userName: zs
+  boss: true
+  birth: 2010/09/12
+  age: 12
+#  interests: [篮球,乒乓球]
+  interests:
+    - 篮球
+    - 乒乓球
+    - 18
+
+  animal: [猫,狗]
+#  score:
+#    english: 80
+#    math: 90
+  score: {english: 80,math: 90}
+  salarys:
+    - 9999.88
+    - 8888.99
+  pet:
+    name: 狗
+    weight: 99.99
+  allPets:
+    sick:
+      - {name: 狗,weight: 99.99}
+      - name: 猫
+        weight: 88.88
+    health:
+      - { name: 猪,weight: 99.99 }
+      - name: 鱼
+        weight: 88.88
